@@ -78,7 +78,7 @@ layoutClass: gap-16 pt-18
 
 # Карткова гра
 
-<img src="./cards.png" alt="" />
+<img src="/cards.png" alt="" />
 
 ::right::
 
